@@ -73,7 +73,7 @@ class TrainNetwork:
 
         return
 
-    def full_monty(self):
+    def train_network(self):
         losses = self.train()
         self.visualize_loss(losses)
         self.visualize_predictions()
