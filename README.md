@@ -7,7 +7,7 @@ I am in the process of converting the Notebook files where Udacity had us write 
 
 ### Project 2 - *Complete*
 
-### Project 3 - *In Progress as of 6/29/22*
+### Project 3 - *In Progress as of 6/27/22*
 
 ### Project 4 - *Pending*
 
