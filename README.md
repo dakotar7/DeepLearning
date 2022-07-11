@@ -7,10 +7,10 @@ I am in the process of converting the Notebook files where Udacity had us write 
 
 ### Project 2 - *Complete*
 
-### Project 3 - *In Progress as of 6/27/22*
+### Project 3 - *Complete*
 
-### Project 4 - *Pending*
+### Project 4 - *Pending Conversion*
 
-### Project 5 - *Pending*
+### Project 5 - *Pending Conversion*
 
 Following the successful conversion from a Jupyter Notebook to Python script files, I will commence implementation of popular and important Deep Learning research papers (modified as needed to fit my hardware constraints) as personal projects to demonstrate my knowledge and abilities in this space.
